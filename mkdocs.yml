@@ -4,6 +4,15 @@ site_description: 'Meine Notizen zu den Vorlesungen und Übungen an der HSR.'
 site_author: 'Nikola Stankovic'
 site_url: 'http://studium.stankovic.xyz/'
 
+# Pages
+pages:
+- Home: 'index.md'
+- Analysis 1: 'analysis-1.md'
+- Betriebssysteme 1: 'betriebssysteme-1.md'
+- Computernetze 1: 'computernetze-1.md'
+- Datenbanksysteme 1: 'datenbanksysteme-1.md'
+- Experimentieren und Evaluieren: 'experimentieren-und-evaluieren.md'
+
 # Repository
 repo_name: 'GitHub'
 repo_url: 'https://github.com/nikolastankovic/studium'
