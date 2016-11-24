@@ -6,6 +6,7 @@ site_url: 'http://studium.stankovic.xyz/'
 
 # Pages
 pages:
+- Home: 'index.md'
 - Analysis 1: 'analysis-1.md'
 - Betriebssysteme 1: 'betriebssysteme-1.md'
 - Computernetze 1: 'computernetze-1.md'
