@@ -6,7 +6,6 @@ site_url: 'http://studium.stankovic.xyz/'
 
 # Pages
 pages:
-- Home: 'index.md'
 - Analysis 1: 'analysis-1.md'
 - Betriebssysteme 1: 'betriebssysteme-1.md'
 - Computernetze 1: 'computernetze-1.md'
@@ -34,8 +33,8 @@ extra:
     text: 'Roboto'
     code: 'Roboto Mono'
   i18n:
-    prev: 'Previous'
-    next: 'Next'
+    prev: 'Zur&uumlck'
+    next: 'Weiter'
   author:
     github: 'nikolastankovic'
     
