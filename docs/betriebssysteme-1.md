@@ -2,13 +2,14 @@
 
 ## Prüfungsanalyse
 
-Prüfung HS12                  | Prüfung HS13                   | Probeprüfung HS15              | Prüfung HS15   
------------------------------ | ------------------------------ | -----------------------------  | -----------------------------
-Systemprogrammierung          | -                              | Systemprogrammierung           | Systemprogrammierung
-C-Programmieren               | -                              | -                              | C-Programmieren
-Parallele Prozesse            | Parallele Prozesse             | Parallele Prozesse             | Parallele Prozesse
-Grundlagen Programmausführung | Grundlagen Programmausführung  | Grundlagen Programmausführung  |
-Synchronisation und Deadlocks | Synchronisation                | -                              | Synchronisation und Deadlocks
-Stackframe                    | Stackframe                     | Stackframe                     | Stackframe
-CPU Scheduling                | CPU Scheduling                 | -                              | CPU Scheduling
--                             | Dateisystem FAT16              | -                              | Kommunikation
+Aufgabe / Prüfung               | Prüfung HS12  | Prüfung HS13  | Prüfung HS14  | Probeprüfung HS15  | Prüfung HS15  
+------------------------------- | ------------- | ------------- | ------------- | ------------------ | -------------
+Systemprogrammierung            | x             | -             | x             | x                  | x             
+C-Programmieren                 | x             | -             | x             | -                  | x
+Parallele Prozesse              | x             | x             | x             | x                  | x
+Grundlagen Programmausführung   | x             | x             | x             | x                  | -
+Synchronisation und Deadlocks   | x             | x             | x             | -                  | x
+Stackframe                      | x             | x             | x             | x                  | x
+CPU Scheduling                  | x             | x             | x             | -                  | x
+Dateisystem FAT16               | -             | x             | -             | -                  | -
+Kommunikation                   | -             | -             | -             | -                  | x
